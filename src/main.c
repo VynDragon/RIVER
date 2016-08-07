@@ -1,4 +1,4 @@
-#include "ISA.h"
+#include "cpu.h"
 
 int main(int ac, char **av)
 {

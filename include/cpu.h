@@ -1,6 +1,6 @@
 #pragma once
 
-#include ISA.h
+#include "RISC-V.h"
 
 #define HARTNUMBER		1
 
